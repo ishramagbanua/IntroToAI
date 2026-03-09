@@ -7,6 +7,7 @@ This repository demonstrates three core Artificial Intelligence algorithms—A* 
 Discussion
 The A* algorithm is a pathfinding strategy used to find the shortest distance between two points. Unlike simple search methods that wander aimlessly, A* uses a Heuristic (an educated guess) to prioritize paths that lead directly toward the goal.
 
+
 Real-World Examples:
 
 *Campus Navigator: Finds the shortest walking path from the Gym to the Science Lab while treating crowded hallways as obstacles to be avoided.
@@ -18,6 +19,7 @@ Real-World Examples:
 Discussion
 A-Priori is a data mining algorithm used for Association Rule Learning. It identifies frequent itemsets in a database to find "hidden rules". Its core logic is that if an itemset is infrequent, all its supersets will also be infrequent, allowing the algorithm to quickly "prune" or ignore irrelevant data.
 
+
 Real-World Examples:
 
 *Cafeteria Bundles: Scans daily lunch tray data to find items frequently bought together (e.g., Pizza and Milk) to help managers create popular meal combos.
@@ -28,6 +30,7 @@ Real-World Examples:
 
 Discussion
 Genetic Algorithms (GA) are inspired by the process of Natural Selection. They are used to find the best possible solution to complex problems by creating a "population" of random guesses and "evolving" them over generations. The "fittest" solutions survive, breed (crossover), and mutate to produce even better results in the next generation.
+
 
 Real-World Examples:
 
